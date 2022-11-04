@@ -1,1 +1,1 @@
-# mine-v1
+# mine
